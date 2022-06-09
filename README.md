@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Hello 👋
+### I'm in the mastar program at the university of Tokyo and resarch optical quantum computer and single photon detector.
+### I'm currently learning quantum software and machine learning as a hobby.
+### Thank you for reading!! 
 <!--
 **takeshi-jodoi/takeshi-jodoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
